@@ -1,13 +1,12 @@
 # 这是注释行，以'#'开头
 # ------------------------------------
 # 需要走代理的网站 (域名后缀)
-DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,ilok.com
 
 # 专业软件，关键词匹配
-DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,uaudio
 DOMAIN-KEYWORD,ikmultimedia
 DOMAIN-KEYWORD,ilok
 
 # 完整的域名匹配
-DOMAIN,specific.domain.com
+# DOMAIN,specific.domain.com
