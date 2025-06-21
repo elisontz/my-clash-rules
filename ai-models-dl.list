@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,fbaipublicfiles.com
 DOMAIN-SUFFIX,hf.co
+
+# 关键词匹配
+DOMAIN-KEYWORD,civitai
