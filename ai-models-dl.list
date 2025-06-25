@@ -2,7 +2,6 @@
 DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,fbaipublicfiles.com
-DOMAIN-SUFFIX,civitai.com
 
 # 关键词匹配
 # DOMAIN-KEYWORD,civitai
